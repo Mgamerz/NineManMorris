@@ -5,7 +5,5 @@ Fully implemented Nine Men's Morris game, written in Java, over the course of a 
 
 This project was completed with 4 team members during Fall 2013:
 
-Michael Perez
-Sasa Rkman
-Sean Wright
-Melissa Neibaur
+Michael Perez - Sasa Rkman - Sean Wright - Melissa Neibaur
+
